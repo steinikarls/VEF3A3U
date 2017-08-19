@@ -1,0 +1,19 @@
+HTTP 2.0
+
+what is the biggest diffrence between http 1.1 and http 2.0?
+
+there are a number of improvements but ghe biggest one is that performence boost it gives.
+also that the HTTP/2 supports queries multiplexing, headers compression, priority and more intelligent packet streaming management. this reasults in reduced latency and accelerates content download on modern web pages.
+
+What are the key differences to HTTP/1.x?
+At a high level, HTTP/2:
+
+is binary, instead of textual
+is fully multiplexed, instead of ordered and blocking
+can therefore use one connection for parallelism
+uses header compression to reduce overhead
+allows servers to “push” responses proactively into client caches
+
+--------------------------------------------------------------
+
+ 
