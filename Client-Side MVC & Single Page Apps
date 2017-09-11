@@ -4,28 +4,15 @@ Hönnunar mynstur er MVC sem kom út árið 1979  frá Trygve Reenskaug þegar h
 Controller sem notandinn sendir fyrirspurn á sem virkjar Model sem tekur upplýsingarnar og vinnur úr þeim og birtir View fyrir notandann.
 
 
+spurning b. 
+
+
 The model directly manages the data, logic and rules of the application.
  A view can be any output representation of information, such as a chart or
  a diagram; multiple views of the same information are possible, such as
  a bar chart for management and a tabular view for accountants.
  The third part, the controller, accepts input and converts it to commands for
  the model or view
-
-
-spurning b. 
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 spurning c.
